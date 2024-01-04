@@ -21,8 +21,8 @@ author: MiqueLinux
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://miquelinux.github.io"
+  Menu:
+    - Portada: "https://miquelinux.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://finaly.org"
 
