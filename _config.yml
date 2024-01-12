@@ -23,10 +23,10 @@ navbar-links:
   About Me: "aboutme"
   Menu Principal:
     - Portada: "https://miquelinux.github.io"
-    - Etiquetes: "https://miquelinux.github.io/tags/"
     - finaly-org: "https://finaly-org.github.io"
     - diner-comunitari-org: "https://diner-comunitari-org.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Etiquetes: "https://miquelinux.github.io/tags/"
   https://finaly.org: "https://finaly.org"
 
 ################
